@@ -15,7 +15,7 @@ class Footer extends Component {
                                 </div>
                                 <div style={{paddingTop: "5px",textAlign: "center"}}>
                                     Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-                                    Re-distributed by <a href="https://themewagon.com/" target="_blank">Themewagon</a>
+                                    Re-distributed by <a href="https://themewagon.com/">Themewagon</a>
                                 </div>
                             </div>
                         </div>

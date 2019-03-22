@@ -1751,3 +1751,75 @@ header {
             transform:scale(0);
   }
 }
+
+@media only screen and (min-width: 800px) {
+    .commo2{
+        color: white; 
+        font-size: 18px;
+        margin: 10px 0 0 10px;
+        white-space: nowrap;
+        overflow: hidden;
+        width: 30em;
+        animation: type 8s steps(60, end); 
+      }
+      
+      .commo2:nth-child(2){
+        animation: type2 8s steps(60, end);
+      }
+      
+      .commo2 a{
+        color: black;
+        text-decoration: none;
+      }
+      
+      .typor{
+        animation: blink 0.7s infinite;
+      }
+      
+      @keyframes type{ 
+        from { width: 0; } 
+      } 
+      
+      @keyframes type2{
+        0%{width: 0;}
+        50%{width: 0;}
+        100%{ width: 100; } 
+      } 
+      
+      @keyframes blink{
+        to{opacity: .0;}
+      }
+      
+      ::selection{
+        background: black;
+      }
+  }
+
+  @media only screen and (max-width: 800px) {
+    .commo2{
+        color: white; 
+        font-size: 18px;
+      }
+
+      .typor{
+        animation: blink 0.7s infinite;
+      }
+      
+      @keyframes type{ 
+        from { width: 0; } 
+      } 
+      
+      @keyframes type2{
+        0%{width: 0;}
+        50%{width: 0;}
+        100%{ width: 100; } 
+      } 
+      
+      @keyframes blink{
+        to{opacity: .0;}
+      }
+      
+      ::selection{
+        background: black;
+      }
+  }

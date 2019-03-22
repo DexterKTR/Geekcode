@@ -14,8 +14,7 @@ class Index extends Component {
                         <div className="navbar-header">
                             <div className="navbar-brand">
                                 <a href="index.html">
-                                    <img className="logo" src="/img/logo_geek.png" alt="logo"/>
-                                    <img className="logo-alt" src="/img/logo_2.png" alt="logo" style={{maxHeight: "100px"}}/>
+                                    <img className="logo" src="/img/logo_black.png" alt="logo"/>
                                 </a>
                             </div>
                             <div className="nav-collapse">
@@ -46,8 +45,7 @@ class Index extends Component {
                             <div className="col-md-10 col-md-offset-1">
                                 <div className="home-content">
                                     <h1 className="white-text"><img className="logo-alt" src="/img/logo_3.png" alt="logo" /></h1>
-                                    <p className="white-text">Morbi mattis felis at nunc. Duis viverra diam non justo. In nisl. Nullam sit amet magna in magna gravida vehicula. Mauris tincidunt sem sed arcu. Nunc posuere.
-                                    </p>
+                                    <p className="commo2">Creando e innovando la forma de ver tú negocio <span className="typor">|</span></p>
                                 </div>
                             </div>
                         </div>

@@ -8,7 +8,7 @@ class Index extends Component{
             <div className="row">
               <div className="col-md-12 col-sm-12 col-xs-12">
                 <div className="section-headline text-center">
-                  <h2>About eBusiness</h2>
+                  <h2>Acerca de nosotros</h2>
                 </div>
               </div>
             </div>
@@ -26,26 +26,26 @@ class Index extends Component{
                 <div className="well-middle">
                   <div className="single-well">
                     <a href="/">
-                      <h4 className="sec-head">project Maintenance</h4>
+                      <h4 className="sec-head">C</h4>
                     </a>
                     <p>
-                      Redug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure aspernatur sit adipisci quaerat unde at nequeRedug Lagre dolor sit amet, consectetur adipisicing elit. Itaque quas officiis iure
+                      Somos un grupo de prosefionales que está creciendo conjuntamente con nuestros clientes, tomando en cuenta las siguiente caracteristicas:
                     </p>
                     <ul>
                       <li>
-                        <i className="fa fa-check"></i> Interior design Package
+                      <i className="fa fa-check"></i> Innovación
                       </li>
                       <li>
-                        <i className="fa fa-check"></i> Building House
+                        <i className="fa fa-check"></i> Respeto mutuo
                       </li>
                       <li>
-                        <i className="fa fa-check"></i> Reparing of Residentail Roof
+                        <i className="fa fa-check"></i> Trabajo en equipo
                       </li>
                       <li>
-                        <i className="fa fa-check"></i> Renovaion of Commercial Office
+                        <i className="fa fa-check"></i> Pasión por el trabajo
                       </li>
                       <li>
-                        <i className="fa fa-check"></i> Make Quality Products
+                        <i className="fa fa-check"></i> Lealtad y claridad
                       </li>
                     </ul>
                   </div>

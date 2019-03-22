@@ -8,7 +8,7 @@ class Services extends Component{
       <div className="row">
         <div className="col-md-12 col-sm-12 col-xs-12">
           <div className="section-headline services-head text-center">
-            <h2>Our Services</h2>
+            <h2>Nuestros servicios</h2>
           </div>
         </div>
       </div>
@@ -21,9 +21,9 @@ class Services extends Component{
                   <a className="services-icon" href="/">
 											<i className="fa fa-code"></i>
 										</a>
-                  <h4>Expert Coder</h4>
+                  <h4>Mejorando código</h4>
                   <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+                    Vamos mejorando nuestro código, para dar mejor experciencia tanto a nuestros cliente como a los usuarios.
                   </p>
                 </div>
               </div>
@@ -36,9 +36,9 @@ class Services extends Component{
                   <a className="services-icon" href="/">
 											<i className="fa fa-camera-retro"></i>
 										</a>
-                  <h4>Creative Designer</h4>
+                  <h4>Diseño más creativo</h4>
                   <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+                    Dar diseños donde nuestro cliente se sienta orgulloso de mostrar su página.
                   </p>
                 </div>
               </div>

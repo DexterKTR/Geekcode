@@ -48,7 +48,7 @@ class Contact extends Component{
                             </div>
                         </div>
                     </div>
-                    <div className="row">
+                    <div className="row mp-25">
                         <div className="col-md-6 col-sm-6 col-xs-12">
                             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15054.373846111112!2d-99.074301!3d19.386748!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4911f934416fdde6!2sIndustrias+Sola+Basic!5e0!3m2!1ses!2smx!4v1496778750565" width="100%" height="450" frameBorder="0" title={'maps'}></iframe>
                         </div>
