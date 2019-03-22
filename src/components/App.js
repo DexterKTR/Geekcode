@@ -1,10 +1,16 @@
 import React, { Component } from 'react';
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import Home from './Home/index';
 
 
 class App extends Component {
   render() {
     return (
-      <div> <img src={ './img/logo_geek.png' } alt='nothing'/> </div>
+      <Router>
+      <div>
+        <Route exact path="/" component={Home}/>
+      </div>
+    </Router>
     );
   }
 }
