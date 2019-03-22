@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 class App extends Component {
   render() {
     return (
-      <div> bien</div>
+      <div> <img src={ './img/logo_geek.png' } alt='nothing'/> </div>
     );
   }
 }
