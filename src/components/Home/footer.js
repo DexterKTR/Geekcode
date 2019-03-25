@@ -10,13 +10,12 @@ class Footer extends Component {
                             <div className="col-md-12 col-sm-12 col-xs-12">
                                 <div className="copyright text-center">
                                     <p>
-                                        © Copyright <strong>eBusiness</strong>. All Rights Reserved
+                                        © Copyright <strong>Geekcode</strong>. All Rights Reserved
                                     </p>
                                 </div>
                                 <div style={{paddingTop: "5px",textAlign: "center"}}>
-                                    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-                                    Re-distributed by <a href="https://themewagon.com/">Themewagon</a>
-                                </div>
+                                    Geekcode.com.mx                              
+                              </div>
                             </div>
                         </div>
                     </div>

@@ -6,10 +6,8 @@ import Services from './services';
 import Pricing from './pricing';
 import Contact from './contact';
 import Footer from './footer';
-
 class Index extends Component{
     render(){
-
         return(
             <Fragment>
                 <Header/>

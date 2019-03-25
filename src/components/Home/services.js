@@ -49,56 +49,11 @@ class Services extends Component{
               <div className="services-details">
                 <div className="single-services">
                   <a className="services-icon" href="/">
-											<i className="fa fa-wordpress"></i>
+											<i className="fa fa-cubes	"></i>
 										</a>
-                  <h4>Wordpress Developer</h4>
+                  <h4>Mejor presentación</h4>
                   <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4 col-sm-4 col-xs-12">
-            <div className=" about-move">
-              <div className="services-details">
-                <div className="single-services">
-                  <a className="services-icon" href="/">
-											<i className="fa fa-camera-retro"></i>
-										</a>
-                  <h4>Social Marketer </h4>
-                  <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4 col-sm-4 col-xs-12">
-            <div className=" about-move">
-              <div className="services-details">
-                <div className="single-services">
-                  <a className="services-icon" href="/">
-											<i className="fa fa-bar-chart"></i>
-										</a>
-                  <h4>Seo Expart</h4>
-                  <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4 col-sm-4 col-xs-12">
-            <div className=" about-move">
-              <div className="services-details">
-                <div className="single-services">
-                  <a className="services-icon" href="/">
-											<i className="fa fa-ticket"></i>
-										</a>
-                  <h4>24/7 Support</h4>
-                  <p>
-                    will have to make sure the prototype looks finished by inserting text or photo.make sure the prototype looks finished by.
+                    Vamos tomando experiencida cada día para dar mejores resultados 
                   </p>
                 </div>
               </div>

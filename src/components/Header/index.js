@@ -27,12 +27,6 @@ class Index extends Component {
                             <li><a href="#about">Nosotros</a></li>
                             <li><a href="#services">Servicios</a></li>
                             <li><a href="#pricing">Precios</a></li>
-                            <li><a href="#team">Equipo</a></li>
-                            <li className="has-dropdown"><a href="#blog">Blog</a>
-                                <ul className="dropdown">
-                                    <li><a href="blog-single.html">blog post</a></li>
-                                </ul>
-                            </li>
                             <li><a href="#contact">Contacto</a></li>
                         </ul>
         

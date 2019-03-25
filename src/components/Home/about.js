@@ -26,7 +26,7 @@ class Index extends Component{
                 <div className="well-middle">
                   <div className="single-well">
                     <a href="/">
-                      <h4 className="sec-head">C</h4>
+                      <h4 className="sec-head">- - -</h4>
                     </a>
                     <p>
                       Somos un grupo de prosefionales que está creciendo conjuntamente con nuestros clientes, tomando en cuenta las siguiente caracteristicas:
